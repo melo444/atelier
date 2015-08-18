@@ -1,3 +1,3 @@
 
-<h1>Helo world</h1>
+<h2>Helo world</h2>
 <p>voici une phrase</p>
